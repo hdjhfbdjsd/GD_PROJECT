@@ -1,0 +1,8 @@
+openai-whisper
+librosa
+numpy
+soundfile
+tqdm
+ffmpeg-python
+matplotlib
+pyttsx3
